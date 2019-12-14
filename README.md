@@ -2,8 +2,7 @@
 This repository provides a reference implementation of Topo2vec as described in the paper.
 
 ### Citing
-If you find *node2vec* useful for your research, please consider citing the following paper:
-Please consider citing the journal, if you find *Topo2vec* useful for your research
+Please consider citing the journal, if you find *Topo2vec* useful for your research:
 
 	@ARTICLE{8915749,
     author={K. {Mallick} and S. {Bandyopadhyay} and S. {Chakraborty} and R. {Choudhuri} and S. {Bose}},

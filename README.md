@@ -13,7 +13,7 @@ Please consider citing the journal, if you find *Topo2vec* useful for your resea
     volume={6},
     number={6},
     pages={1306-1317},
-    keywords={Prediction algorithms;Kernel;Support vector machines;Optimization;Task analysis;Network topology;Neural networks;Data        mining;feature learning;graph representation;link prediction;node embedding;pairwise classification},
+    keywords={Prediction algorithms;Kernel;Support vector machines;Optimization;Task analysis;Network topology;Neural networks;Data  mining;feature learning;graph representation;link prediction;node embedding;pairwise classification},
     doi={10.1109/TCSS.2019.2950589},
     ISSN={2373-7476},
     month={Dec},}
